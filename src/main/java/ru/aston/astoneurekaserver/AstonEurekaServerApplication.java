@@ -9,5 +9,4 @@ public class AstonEurekaServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(AstonEurekaServerApplication.class, args);
     }
-
 }
